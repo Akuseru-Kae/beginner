@@ -1,13 +1,10 @@
-#a python function that takes the limit as an argument of 
+'''#a python function that takes the limit as an argument of 
   the Fibonacci series and prints till that limit.
 
 #fn is first number and sn is second number
-nn is new number .
+nn is new number .'''
 
 
-
-
----------------
 def fibonacci(num):
     fn=0
     sn=1
